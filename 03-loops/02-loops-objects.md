@@ -1,8 +1,8 @@
 # Lecture 15: Loops
 
-**Class:** CS 1400
-**Date:** 10-15-2026
-**Modules:** 3.5, 3.6
+**Class:** CS 1400  
+**Date:** 10-15-2026  
+**Modules:** 3.5, 3.6  
 
 ---
 
