@@ -1,7 +1,7 @@
 # Lecture 15: Loops
 
 **Class:** CS 1400  
-**Date:** 10-15-2026  
+**Date:** Oct. 15, 2026
 **Modules:** 3.5, 3.6  
 
 ---
@@ -125,6 +125,10 @@ me.car1 = car1
 # Do in loop
 # Enter "Opel" when done
 ```
+
+## Code Lab
+
+The Coffee House
 
 ## Summary (write after class)
 *3–5 bullet points you'd want to remember a week from now.*
