@@ -26,8 +26,8 @@
 |🟡|Oct 15|Lecture 13|Lessons 3.5b, 3.6 (user defined types)|
 |🟡|Oct 16|Exercises / quizzes|Exercises (3.4.1, 3.5.2-a/b/c, 3.5.3)<br>Quizzes (3.4, 3.5)|
 |🟡|Oct 18|Assn 3a||
-|🟢|Oct 20|Lecture 14|Lesson 4.1a|
-|🟢|Oct 22|Lecture 15|Lesson 4.1b|
+|🟢|Oct 20|Lecture 14|Lesson 4.1 - Functions|
+|🟢|Oct 22|Lecture 15|Lesson 4.1 - Debugging|
 |🟢|Oct 23|Exercises / quizzes|Exercises (4.1.2)<br>Quizzes (4.1)|
 |🔵🔴🟡|Oct 23|Midterm|Opens on Oct. 18|
 |🟡|Oct 25|Assn 3b||

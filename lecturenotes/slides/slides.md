@@ -15,7 +15,7 @@ drawings:
   persist: false
 ---
 
-# LOOPS!
+# Functions
 
 ---
 layout: default
@@ -25,12 +25,11 @@ layout: default
 
 | Date | What |
 |-----------|-----------|
-| Oct 16 (Fri) | Exercises (3.4.1, 3.5.2 a/b/c, 3.5.3) <br> Quizzes (3.4, 3.5) | 
-| Oct 17 | Assignment 2b code review due |
-| Oct 18 (Sun) | Assignment 3a |
-| Oct 19 | Set up Proctorio |
-| Oct 23 | Midterm (Units 1-3) |
-
+| Now | Set up Proctorio |
+| Oct 23 (Fri) | Midterm (Units 1-3) |
+| Oct 23 | Exercises (4.1.2) <br> Quizzes (4.1) | 
+| Oct 24 | Assignment 3a code review due |
+| Oct 25 (Sun) | Assignment 3b |
 
 ---
 layout: default
@@ -38,32 +37,18 @@ layout: default
 
 # Attendance
 
-
 ---
 layout: default
 ---
 
-# Code lab - Coffee house
+# Exercises
 
-```python
-prices = [3.50, 4.25, 5.75, 2.00, 6.50, 4.00]
-```
+## double(n)
 
-### Part 1
+Write a function that returns double it's input and prints it
 
-Total of all prices and how many are over $4.00
+## fahrenheit_to_celsius(temp)
 
-### Part 2
+Write a function that converts a fahrenheit temperature to celsius and prints the result.
 
-Take a drink order from a customer.  They may ask for as many drinks as they like.  They will order by<br>
-entering the number of the drink (1-6).  When they enter 0, that means they're done.<br>
-
-Print the total order amount
-
-### Part 3
-
-Find the first price over $5.00 and print it.  Stop processing when you find it.
-
-### Part 4
-
-Print a tip table for $10, $20, $30, and $40.  Print 10%, 15%, 18%, 20%, and 25%
+``celsius = (f - 32) * 5 / 9``
