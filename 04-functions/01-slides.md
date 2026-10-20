@@ -52,3 +52,9 @@ Write a function that returns double it's input and prints it
 Write a function that converts a fahrenheit temperature to celsius and prints the result.
 
 ``celsius = (f - 32) * 5 / 9``
+
+## Scramble string
+
+Write a function that accepts a string and returns that same string, scrambled
+
+
