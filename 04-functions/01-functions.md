@@ -17,6 +17,16 @@ print("Hello Alice, from CS1.")
 print("Hello Arty, from CS1.")
 ```
 
+
+```python
+# Shuffle words
+word = "alligator"
+word_list = list(word)
+random.shuffle(word_list)
+word = "".join(word_list)
+print(word)
+```
+
 *To change that to a different greeting is a pain.*
 
 ## Defining functions
@@ -142,10 +152,6 @@ Write a function that returns double it's input and prints it
 Write a function that converts a fahrenheit temperature to celsius and prints the result.
 
 ``celsius = (f - 32) * 5 / 9``
-
-### double(n)
-
-Write a function that returns double it's input and prints it
 
 ### Scramble string
 
