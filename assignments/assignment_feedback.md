@@ -1,5 +1,13 @@
 # Assignment Feedback
 
+## TOC
+
+- [Assignment 1a](#assignment-1a)
+- [Assignment 1b](#assignment-1b)
+- [Assignment 2a](#assignment-2a)
+- [Assignment 2b](#assignment-2b)
+- [Assignment 3a](#assignment-3a)
+
 ## Assignment 1a
 
 Generally considered to be easy or medium. Didn't see any more than that. Longest time spent was 15, 10, 10, 9, 8, 7, 6, 6
