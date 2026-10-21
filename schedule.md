@@ -1,3 +1,8 @@
+# Schedule
+
+**Class:** CS 1400
+**Semester:** Fall 2026
+
 |Module|Date|Item|Notes|
 |------|----|----|-----|
 |⚪|Sep 1|Lecture 1||
