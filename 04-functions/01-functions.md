@@ -1,7 +1,7 @@
-# Lecture 16: Functions
+# Lecture: Functions
 
 **Class:** CS 1400
-**Date:** Oct. 19, 2026
+**Date:** Oct. 20, 2026
 **Modules:** 4.1
 
 ---
