@@ -1,0 +1,4 @@
+git push
+cd "/Users/farrell/Library/Mobile Documents/com~apple~CloudDocs/School/cs1400"
+git pull
+cd -
