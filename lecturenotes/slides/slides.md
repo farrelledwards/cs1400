@@ -15,7 +15,7 @@ drawings:
   persist: false
 ---
 
-# Functions
+# Functions / Debugging
 
 ---
 layout: default
@@ -35,26 +35,22 @@ layout: default
 layout: default
 ---
 
-# Attendance
-
----
-layout: default
----
-
 # Exercises
 
-## double(n)
+ grade_helper_buggy.py
 
-Write a function that returns double it's input and prints it
+This program analyzes a list of quiz scores.
+It has several bugs. Your job: find them and fix them.
+<br>
+When it is working, it should print exactly this:
+-  Scores: [88, 92, 75, 64, 100]
+-  Average: 83.8
+-  Highest: 100
+-  Passing: 4
+-  Letter grade for average: B
 
-## fahrenheit_to_celsius(temp)
-
-Write a function that converts a fahrenheit temperature to celsius and prints the result.
-
-``celsius = (f - 32) * 5 / 9``
-
-## Scramble string
-
-Write a function that accepts a string and returns that same string, scrambled
-
+Tips:
+  - Run the program, read the error message, and fix one bug at a time.
+  - Some bugs crash the program. Others run but give the wrong answer.
+  - Keep a list of each bug you found and how you fixed it.
 
