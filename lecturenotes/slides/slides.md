@@ -15,7 +15,7 @@ drawings:
   persist: false
 ---
 
-# Functions / Debugging
+# Functions
 
 ---
 layout: default
@@ -25,32 +25,17 @@ layout: default
 
 | Date | What |
 |-----------|-----------|
-| Now | Set up Proctorio |
-| Oct 23 (Fri) | Midterm (Units 1-3) |
-| Oct 23 | Exercises (4.1.2) <br> Quizzes (4.1) | 
-| Oct 24 | Assignment 3a code review due |
-| Oct 25 (Sun) | Assignment 3b |
+| Oct 30 (Fri) | Exercises (4.1.2) <br> Quizzes (4.1) | 
+| Oct 31 | Assignment 3b code review due |
+| Nov 1 (Sun) | Assignment 4a |
 
 ---
 layout: default
 ---
 
-# Exercises
+# Exam 1
 
- grade_helper_buggy.py
-
-This program analyzes a list of quiz scores.
-It has several bugs. Your job: find them and fix them.
-<br>
-When it is working, it should print exactly this:
--  Scores: [88, 92, 75, 64, 100]
--  Average: 83.8
--  Highest: 100
--  Passing: 4
--  Letter grade for average: B
-
-Tips:
-  - Run the program, read the error message, and fix one bug at a time.
-  - Some bugs crash the program. Others run but give the wrong answer.
-  - Keep a list of each bug you found and how you fixed it.
+- Average: 82%
+- High: 99%
+- Std Dev: 10%
 
