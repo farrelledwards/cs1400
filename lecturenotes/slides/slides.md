@@ -21,6 +21,10 @@ drawings:
 layout: default
 ---
 
+---
+layout: default
+---
+
 # Status
 
 | Date | What |
@@ -29,13 +33,16 @@ layout: default
 | Oct 31 | Assignment 3b code review due |
 | Nov 1 (Sun) | Assignment 4a |
 
+<br>
+<br>
+
+# Today's code
+
+### DANCE
+
+
 ---
 layout: default
 ---
 
-# Exam 1
-
-- Average: 82%
-- High: 99%
-- Std Dev: 10%
-
+# Assn 4a
